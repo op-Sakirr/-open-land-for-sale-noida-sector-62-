@@ -1,0 +1,6 @@
+{
+  "name": "Noida Prime Property",
+  "description": "Open Land for Sale in Noida Sector 62",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
